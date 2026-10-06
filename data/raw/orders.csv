@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,country,status
+1001,C001,2026-08-25,Laptop,Electronics,1,75000,India,Completed
+1002,C002,2026-08-25,Mouse,Electronics,2,1200,India,Completed
+1003,C003,2026-08-26,Keyboard,Electronics,1,2500,India,Cancelled
+1004,C001,2026-08-26,Office Chair,Furniture,1,8500,India,Completed
+1005,C004,2026-08-27,Monitor,Electronics,2,15000,India,Completed
+1006,C005,2026-08-27,Desk,Furniture,1,12000,India,Pending
+1007,C002,2026-08-28,Mouse,Electronics,3,1200,India,Completed
+1008,C006,2026-08-28,Headphones,Electronics,1,3500,India,Completed
+1009,C003,2026-08-29,Keyboard,Electronics,2,2500,India,Completed
+1010,C007,2026-08-29,Office Chair,Furniture,1,8500,India,Completed
